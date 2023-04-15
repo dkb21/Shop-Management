@@ -1,0 +1,16 @@
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form1.resources
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form2.resources
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form3.resources
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form4.resources
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Form5.resources
+C:\Users\doank\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.LoginForm.resources
